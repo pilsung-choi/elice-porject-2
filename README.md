@@ -1,7 +1,9 @@
 ## 🍋🍎 나도땀 (과일 체험 농장 예약 서비스)
+
 <img src="./client/public/nadoddam.jpg" width="200px">
 
 ### <b>과일을 땀 흘려 수확하고 농부가 되어보자!</b>
+
 풍년으로 인한 과일값 하락과 인력 부족으로 수확을 포기하는 농민들이 늘고 있다는 뉴스를 보고
 <br />
 직접 수확하고 과일을 가져가는 체험 상품을 판매한다면 농민과 소비자 모두 이득이지 않을까 생각했습니다.
@@ -15,7 +17,7 @@
 ## ✅ 시연 영상
 
 <details><summary>회원가입, 로그인</summary>
-![로그인_회원가입](/uploads/0f667be88a7ef36e9e83574a4e5ccfa6/로그인_회원가입.gif)
+https://user-images.githubusercontent.com/81282655/221536808-95e11082-1e24-449e-ba46-71343c692492.gif
 </details>
 
 <details><summary>홈화면 - 무한스크롤, 찜하기</summary>
@@ -46,23 +48,22 @@
 
 ## ✅ 페이지별 화면
 
-|  |  |
-| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------|
-| ![1홈](/uploads/033cd3775e778eda6542e420a4692ef7/1홈.PNG) | ![2회원가입](/uploads/89b2aedde490ac3c9f62c34092792bce/2회원가입.PNG)
-| 메인 페이지 | 회원가입 |
-| ![3로그인](/uploads/c927d935084a3c804453b71446addcf4/3로그인.PNG) | ![4디테일](/uploads/86e80955bcec1c218ad8692fe2427eb0/4디테일.png) |
-| 로그인 | 상세페이지(1) |
-| ![5디테일2](/uploads/157ee60a38466fe8e1fe4c583158d322/5디테일2.png)| ![6결제](/uploads/4378f6b59cebf7db6057bf9a02e5f93b/6결제.png)  |
-| 상세페이지(2) | 결제 |
-| ![7일반회원_정보관리](/uploads/c4227707a3600646905f74949a282108/7일반회원_정보관리.PNG) | ![8일반회원_예약](/uploads/f7c8a99f26051424f1dfbc34bea3aff5/8일반회원_예약.PNG)  |
-| 일반회원 - 정보 관리 | 일반 회원 - 예약 관리 |
-| ![9일반회원_후기](/uploads/aa81b1ebc9fc6f613721a6c7c8d42238/9일반회원_후기.png)  | ![10농장주_정보등록](/uploads/8271f09fa692a49b5a1a35fc30ac165e/10농장주_정보등록.PNG) |
-| 일반 회원 - 후기 관리 | 농장주 - 농장 정보 등록 |
-| ![11농장주_정보관리](/uploads/049b3260b1bef217973adbb4665d6175/11농장주_정보관리.PNG)  | ![12농장주_체험등록](/uploads/4e135b6ade330c4f07232eb2237e2bc7/12농장주_체험등록.PNG)  |
-| 농장주 - 농장 정보 관리 | 농장주 - 체험시간표 관리 |
-| ![13농장주_예약조회](/uploads/2887993abffa3c046aef282ecb0fc45f/13농장주_예약조회.PNG)  |  ![14농장주_후기](/uploads/c9d34953966bd961611fa9ec2414ac3b/14농장주_후기.PNG) |
-| 농장주 - 예약 관리 | 농장주 - 후기 조회 |
-
+|                                                                                         |                                                                                       |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| ![1홈](/uploads/033cd3775e778eda6542e420a4692ef7/1홈.PNG)                               | ![2회원가입](/uploads/89b2aedde490ac3c9f62c34092792bce/2회원가입.PNG)                 |
+| 메인 페이지                                                                             | 회원가입                                                                              |
+| ![3로그인](/uploads/c927d935084a3c804453b71446addcf4/3로그인.PNG)                       | ![4디테일](/uploads/86e80955bcec1c218ad8692fe2427eb0/4디테일.png)                     |
+| 로그인                                                                                  | 상세페이지(1)                                                                         |
+| ![5디테일2](/uploads/157ee60a38466fe8e1fe4c583158d322/5디테일2.png)                     | ![6결제](/uploads/4378f6b59cebf7db6057bf9a02e5f93b/6결제.png)                         |
+| 상세페이지(2)                                                                           | 결제                                                                                  |
+| ![7일반회원_정보관리](/uploads/c4227707a3600646905f74949a282108/7일반회원_정보관리.PNG) | ![8일반회원_예약](/uploads/f7c8a99f26051424f1dfbc34bea3aff5/8일반회원_예약.PNG)       |
+| 일반회원 - 정보 관리                                                                    | 일반 회원 - 예약 관리                                                                 |
+| ![9일반회원_후기](/uploads/aa81b1ebc9fc6f613721a6c7c8d42238/9일반회원_후기.png)         | ![10농장주_정보등록](/uploads/8271f09fa692a49b5a1a35fc30ac165e/10농장주_정보등록.PNG) |
+| 일반 회원 - 후기 관리                                                                   | 농장주 - 농장 정보 등록                                                               |
+| ![11농장주_정보관리](/uploads/049b3260b1bef217973adbb4665d6175/11농장주_정보관리.PNG)   | ![12농장주_체험등록](/uploads/4e135b6ade330c4f07232eb2237e2bc7/12농장주_체험등록.PNG) |
+| 농장주 - 농장 정보 관리                                                                 | 농장주 - 체험시간표 관리                                                              |
+| ![13농장주_예약조회](/uploads/2887993abffa3c046aef282ecb0fc45f/13농장주_예약조회.PNG)   | ![14농장주_후기](/uploads/c9d34953966bd961611fa9ec2414ac3b/14농장주_후기.PNG)         |
+| 농장주 - 예약 관리                                                                      | 농장주 - 후기 조회                                                                    |
 
 ### 💡 배포링크
 
@@ -80,24 +81,27 @@ http://kdt-sw3-team01.elicecoding.com/
 <br />
 
 ## ✅ 기술 스택
+
 <img src="/uploads/6f10447d2e5f1bff8505f65b344029bd/image.png" width="600px">
 <br />
 
 ### 💡 프론트엔드
+
 1. Languges: Javascript, React
-2. 상태관리: ReactRedux Tookit 
+2. 상태관리: ReactRedux Tookit
 3. Styles: styled components, react-icons, bootstrap
 4. 비동기 통신: axios
 5. 이외
-    * 주소 입력: 다음 도로명 주소 API
-    * 주소 표시: 카카오 지도 API
-    * 로그인/ 회원가입/ 정보수정: React hook form
-    * 리스트 날짜 필터링: moment
-    * 달력: react-calendar, react-datepicker
-    * 무한 스크롤: react-infinite-scroll-component, react-sticky-box
-    * 모달 내용 관리: react-modal
+   - 주소 입력: 다음 도로명 주소 API
+   - 주소 표시: 카카오 지도 API
+   - 로그인/ 회원가입/ 정보수정: React hook form
+   - 리스트 날짜 필터링: moment
+   - 달력: react-calendar, react-datepicker
+   - 무한 스크롤: react-infinite-scroll-component, react-sticky-box
+   - 모달 내용 관리: react-modal
 
 ### 💡 백엔드
+
 1. Languges: node js / express
 2. DB: MySQL
 3. aws
@@ -109,14 +113,16 @@ http://kdt-sw3-team01.elicecoding.com/
 ## ✅ 기획
 
 ### 💡 프론트엔드
+
 1. [와이어 프레임](https://www.figma.com/file/Rsi96G1DjI5BfXGOdA8dbU/%EA%B3%BC%EC%9D%BC-%EC%B2%B4%ED%97%98-%EB%86%8D%EC%9E%A5?node-id=0%3A1&t=3Mj1ARh1r7pHCa7i-1)
 2. [IA 정보구조도 ](https://prickle-fern-9fe.notion.site/IA-b3195817a7b849d9a95239afa451c8b3)
 3. [요구사항 정의서](https://prickle-fern-9fe.notion.site/54df7bddd8294f568766c915308cc0de)
 
 ### 💡 백엔드
+
 1. ERD
-    <br/>
-    <img src="/uploads/b845c7c9bf8826db64f9ed1e144e79d2/image.png" width="400px">
+   <br/>
+   <img src="/uploads/b845c7c9bf8826db64f9ed1e144e79d2/image.png" width="400px">
 2. [API 명세서](https://documenter.getpostman.com/view/16584157/2s8Z6sbvay)
 
 <br />
@@ -174,14 +180,14 @@ http://kdt-sw3-team01.elicecoding.com/
 
 ## ✅ 제작자
 
-| 이름   | 담당 업무 |
-| ------ | --------- |
-| 송주혜 | 팀장 BE / 유저 API, 예약 API, 리뷰 API, 찜하기 API |
-| 곽지우 | FE / 로그인, 회원가입, 농장 정보 CRUD, 농장예약조회 |
-| 박지혜 | FE / 예약상세페이지, 지도api, 농장의 체험시간표CRUD 및 리뷰 조회 |
-| 정지훈 | FE / 홈 화면, 헤더 검색, 찜하기 CRD |
+| 이름   | 담당 업무                                                           |
+| ------ | ------------------------------------------------------------------- |
+| 송주혜 | 팀장 BE / 유저 API, 예약 API, 리뷰 API, 찜하기 API                  |
+| 곽지우 | FE / 로그인, 회원가입, 농장 정보 CRUD, 농장예약조회                 |
+| 박지혜 | FE / 예약상세페이지, 지도api, 농장의 체험시간표CRUD 및 리뷰 조회    |
+| 정지훈 | FE / 홈 화면, 헤더 검색, 찜하기 CRD                                 |
 | 조가영 | FE / 레이아웃(헤더, 푸터), 유저정보 RUD, 유저리뷰 CRUD, 유저예약 RD |
-| 허혜실 | FE / 결제, 예약정보 RU, 결제정보 CU, 농장등록 |
-| 최필성 | BE / 유저 API, 농장 API, 체험시간테이블 API |
+| 허혜실 | FE / 결제, 예약정보 RU, 결제정보 CU, 농장등록                       |
+| 최필성 | BE / 유저 API, 농장 API, 체험시간테이블 API                         |
 
 <br>
